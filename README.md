@@ -1,8 +1,6 @@
 ### Hi there, I'm Vitya👋
 
 ### I'm a Data Scientist
-<!--
-**ViktorZuev/ViktorZuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
