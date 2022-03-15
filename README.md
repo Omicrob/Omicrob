@@ -2,10 +2,10 @@
 
 ### About my self:
 
-- I'm a Data Scientist
-- I've a master's degree in Applied Mathematics and Informatics
-- I've experience working with Recommender Systems and NLP
-- I'm interested in cloud technologies for DS/ML solutions
+- I'm a Data Scientist 👨‍💻
+- I've a master's degree in Applied Mathematics and Informatics 🎓
+- I've experience working with Recommender Systems and NLP ✏
+- I'm interested in cloud technologies for DS/ML solutions ⚙
 
 ### Technologies stack:
 <p style="display: inline-block;" align="center">
