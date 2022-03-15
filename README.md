@@ -2,7 +2,6 @@
 
 ### I'm a Data Scientist
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on filling my profile with content)))
 - 🌱 I’m currently learning ...
