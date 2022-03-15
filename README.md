@@ -51,11 +51,11 @@
     <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
     <img width="30px" src="https://img.icons8.com/color/344/numpy.svg" />
     <img width="30px" src="https://scipy.org/images/logo.svg" />
-    <img width="55px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+    <img width="56px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
-     
+    <img width="83px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" /> 
   </kbd>
 
 ### Connect with me:
