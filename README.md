@@ -38,9 +38,9 @@
     <kbd>Visualization Libraries</kbd>
     <br>
     <br>
-    <img hight="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-    <img hight="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
-    <img hight="30px" src="https://symbols.getvecta.com/stencil_92/7_plotly-official.8bbcd93bcc.svg" />
+    <img hight=10 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+    <img hight=10 src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
+    <img hight=10 src="https://symbols.getvecta.com/stencil_92/7_plotly-official.8bbcd93bcc.svg" />
   </kbd>
   
     
