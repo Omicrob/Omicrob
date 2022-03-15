@@ -38,7 +38,7 @@
     <kbd>Visualization Libraries</kbd>
     <br>
     <br>
-    <img width="30px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+    <img width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
     <img width="30px" src="https://symbols.getvecta.com/stencil_92/7_plotly-official.8bbcd93bcc.svg" />
   </kbd>
@@ -50,7 +50,7 @@
     <br>
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
     <img width="30px" src="https://img.icons8.com/color/344/numpy.svg" />
-    <img width="30px" src="https://scipy.org/images/logo.svg" />
+    <img width="30px" src="https://scipy.org/images/logo.svg" alt="center"/>
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
