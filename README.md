@@ -8,7 +8,7 @@
 - I'm interested in cloud technologies for DS/ML solutions
 
 ### Technologies stack:
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" align="left">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
